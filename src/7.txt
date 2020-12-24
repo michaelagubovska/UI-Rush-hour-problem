@@ -1,0 +1,6 @@
+red 2 4 0 h
+orange 2 0 4 h
+yellow 3 3 5 v
+green 3 3 3 v
+black 3 5 0 h
+darkblue 2 2 2 h

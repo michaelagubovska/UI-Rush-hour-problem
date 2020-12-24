@@ -1,0 +1,13 @@
+red 2 2 2 h
+green 3 0 0 h
+lightblue 2 0 3 v
+darkblue 3 0 4 v
+black 3 0 5 v
+yellow 2 1 0 v
+pink 2 1 1 h
+orange 2 3 0 h
+emerald 2 3 2 v
+Purple 2 4 1 v
+Gray 2 4 4 h
+Brown 2 5 2 h
+salmon 2 5 4 h
